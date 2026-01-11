@@ -62,3 +62,5 @@ Contributing
 
 License
 MIT — see LICENSE file
+
+Python version: ![Python](https://img.shields.io/badge/python-3.10-blue)
